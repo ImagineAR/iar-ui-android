@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.iar</groupId>
   <artifactId>iar_ui</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.2</version>
   <name>iar-ui</name>
   <url>http://maven.apache.org</url>
 </project>
